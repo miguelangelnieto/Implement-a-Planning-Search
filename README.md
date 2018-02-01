@@ -4,6 +4,9 @@ Part of the [**Artificial Intelligence Nanodegree Program.**](https://eu.udacity
 
 Used logic and planning techniques to create an AI that finds the most efficient route to route cargo around the world to their respective destinations. This project used a combination of propositional logic and search along with A* heuristics to find optimal planning solutions.
 
+- Logic and Planning
+- Search
+
 [Home Page](http://miguelangelnieto.net)
 
 [LinkedIn](https://www.linkedin.com/in/miguelangelnieto/?locale=en_US)
